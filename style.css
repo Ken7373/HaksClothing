@@ -153,7 +153,7 @@
     border-radius:  25px;
  }
 
- #product1.pro img {
-    width: 100%;
+ #product1 .pro img {
+    width: 10%;
     border-radius: 10px;
  }
